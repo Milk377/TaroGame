@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 5656a468500ff8146b7df0381e9d6a69
+TextScriptImporter:
+  externalObjects: {}
+  userData: <?xml version="1.0" encoding="utf-16"?><CSVMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><columns><string>Index</string><string>Name</string><string>Sprite</string><string>Explaine</string></columns><columnTypes><string>int</string><string>string</string><string>string</string><string>string</string></columnTypes><isStatic>true</isStatic><staticCsvPath>Table/Card</staticCsvPath><generatedScriptPath>Assets/Script/Table/CardTable.cs</generatedScriptPath></CSVMetaData>
+  assetBundleName: 
+  assetBundleVariant: 

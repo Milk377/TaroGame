@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ConfirmCardUI : MonoBehaviour
+{
+    static public ConfirmCardUI instance;
+
+    public void SetInstance()
+    {
+        instance = this;
+    }
+
+    public void Init()
+    {
+        gameObject.SetActive(true);
+    }
+
+    public void OnClickShowResult()
+    {
+        CardInfoUI.instance.Init();
+    }
+
+    public void Close()
+    {
+        gameObject.SetActive(false);
+    }
+}

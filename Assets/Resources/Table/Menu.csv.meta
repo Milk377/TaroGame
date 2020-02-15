@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 90dd109bcfe350d44933aec7477d0691
+TextScriptImporter:
+  externalObjects: {}
+  userData: <?xml version="1.0" encoding="utf-16"?><CSVMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><columns><string>Name</string><string>Icon</string><string>Count</string><string>Explaine</string></columns><columnTypes><string>string</string><string>string</string><string>int</string><string>string</string></columnTypes><isStatic>true</isStatic><staticCsvPath>Table/Menu</staticCsvPath><generatedScriptPath>Assets/Script/Table/MenuTable.cs</generatedScriptPath></CSVMetaData>
+  assetBundleName: 
+  assetBundleVariant: 
